@@ -148,6 +148,6 @@ implementation 'com.google.android.material:material:1.11.0'
 
 ## 👨‍💻 Auteur
 
-Étudiant : _[Votre nom]_  
+Étudiant : salma ait zidan  
 Module : Développement Mobile  
 Année : 2025–2026
